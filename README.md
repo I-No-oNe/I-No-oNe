@@ -5,6 +5,7 @@
 - Minecraft mod user
 - 3D designor on the frc program
 - Know java(but not really good at it)
+- bug finder and idea provider on ClickCrystals
 ```
 # Links to my work:
 - [ClickCrystalPlus Pack](https://modrinth.com/resourcepack/clickcrystalplus-pack)

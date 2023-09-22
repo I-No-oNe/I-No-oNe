@@ -13,7 +13,7 @@
 - [*ImproperIssues-The coder of Click Crystals*](https://github.com/ItziSpyder)
 - [**The ClickCrystals Mod**](https://github.com/ItziSpyder/ClickCrystals)
   # Socials
-Discord-`i_no_am`
+ Discord-`i_no_am`
   
 
 

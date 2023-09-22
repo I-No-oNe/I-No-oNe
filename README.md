@@ -10,7 +10,9 @@ todo
 # Links to my work:
 - [ClickCrystalPlus Pack](https://modrinth.com/resourcepack/clickcrystalplus-pack)
 - [My frc team](https://excaliburfrc.github.io/)
-- [ImproperIssues-The coder of Click Crystals](https://github.com/ItziSpyder)
+- [*ImproperIssues-The coder of Click Crystals*](https://github.com/ItziSpyder)
+- [**Click Crystals**](https://github.com/ItziSpyder/ClickCrystals)
+  
   
 
 

@@ -4,18 +4,29 @@
 ## what Im doing?
 ```yml
 - Texture pack maker(one of my known packs is the ClickCrystalPlus pack)
-- Minecraft mod user
+- Minecraft mods user
 - 3D designor on the frc program
 - Know java(but not really good at it)
 - bug finder and idea provider on ClickCrystals
+- anarchy player
+- israel supporter
+- A cool guy without any time
+- probably learning something rn
 ```
-# Links to my work:
-- [ClickCrystalPlus Pack](https://modrinth.com/resourcepack/clickcrystalplus-pack)
+# Links to my works:
+- [The ClickCrystalPlus-Pack](https://modrinth.com/resourcepack/clickcrystalplus-pack)
 - [My frc team](https://excaliburfrc.github.io/)
-- [*ImproperIssues-The coder of Click Crystals*](https://github.com/ItziSpyder)
 - [**The ClickCrystals Mod**](https://github.com/ItziSpyder/ClickCrystals)
-  # Socials
- Discord-`i_no_am`
+- [ClickCrystals-Dark-GUI](https://github.com/I-No-oNe/ClickCrystals-Dark-GUI)
+# Thank to this guys:
+-  [*ImproperIssues-The coder of Click Crystals*](https://github.com/ItziSpyder)
+- [*UHB-One of the best out the(Irl friend)*](https://github.com/hb217)
+- [*IceBlast (The best Irl friend ever)*](https://discord.com/users/918580693360050206)
   
+  # Socials:
+```json
+Discord-i_no_am
+Mc ign-i_no_am
+```  
 
 

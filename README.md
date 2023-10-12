@@ -1,6 +1,5 @@
 # I-No-One(also known as i_no_am)
-[![Discord Presence](https://lanyard.cnrad.dev/api/1051897115447660697?bg=007519&showDisplayName=true&borderRadius=55px&idleMessage=Support%20Israel!&theme=dark&hideTimestamp=true)](https://discord.com/users/1051897115447660697)
-
+![Discord Presence](https://lanyard.cnrad.dev/api/1051897115447660697?bg=007519&showDisplayName=true&borderRadius=55px&idleMessage=Support%20Israel!&theme=dark&hideTimestamp=true)
 ## what Im doing?
 ```yml
 - Texture pack maker(one of my known packs is the ClickCrystalPlus pack)
@@ -13,6 +12,7 @@
 - A cool guy without any time
 - probably learning something rn
 ```
+[![forthebadge](https://forthebadge.com/images/badges/fixed-bugs.svg)](https://forthebadge.com)
 # Links to my works:
 - [The ClickCrystalPlus-Pack](https://modrinth.com/resourcepack/clickcrystalplus-pack)
 - [My frc team](https://excaliburfrc.github.io/)
@@ -29,5 +29,5 @@
 Discord-i_no_am
 Mc ign-i_no_am
 ```  
-
+[![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
 

@@ -18,7 +18,8 @@
 - [My frc team](https://excaliburfrc.github.io/)
 - [**The ClickCrystals Mod**](https://github.com/ItziSpyder/ClickCrystals)
 - [ClickCrystals-Dark-GUI](https://github.com/I-No-oNe/ClickCrystals-Dark-GUI)
-# Thank to this guys:
+- [ThunderHack-Recode (I help with a bug there)](https://github.com/Pan4ur/ThunderHack-Recode)
+# Thanks to this guys:
 -  [*ImproperIssues-The coder of Click Crystals*](https://github.com/ItziSpyder)
 - [*UHB-One of the best out the(Irl friend)*](https://github.com/hb217)
 - [*IceBlast (The best Irl friend ever)*](https://discord.com/users/918580693360050206)

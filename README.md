@@ -1,5 +1,5 @@
 # I-No-One(also known as i_no_am)
-![Discord Presence](https://lanyard.cnrad.dev/api/1051897115447660697?bg=007519&showDisplayName=true&borderRadius=55px&idleMessage=Support%20Israel!&theme=dark&hideTimestamp=true)
+![Discord Presence](https://lanyard.cnrad.dev/api/1051897115447660697?bg=007519&showDisplayName=true&borderRadius=55px&idleMessage=CC%20Plus+V3+Pack%20Is%20Coming%20Soon!&theme=dark&hideTimestamp=true)
 ## what Im doing?
 ```yml
 - Texture pack maker(one of my known packs is the ClickCrystalPlus pack)

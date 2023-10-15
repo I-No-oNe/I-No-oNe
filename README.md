@@ -25,7 +25,7 @@
 - [*IceBlast (The best Irl friend ever)*](https://discord.com/users/918580693360050206)
   
   # Socials:
-```json
+```yml
 Discord-i_no_am
 Mc ign-i_no_am
 ```  

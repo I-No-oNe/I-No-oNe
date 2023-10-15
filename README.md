@@ -21,7 +21,7 @@
 - [ThunderHack-Recode (I help with a bug there)](https://github.com/Pan4ur/ThunderHack-Recode)
 # Thanks to this guys:
 -  [*ImproperIssues-The coder of Click Crystals*](https://github.com/ItziSpyder)
-- [*UHB-One of the best out the(Irl friend)*](https://github.com/hb217)
+- [*UHB-One of the best out the(Irl friend)*](https://github.com/uhb217)
 - [*IceBlast (The best Irl friend ever)*](https://discord.com/users/918580693360050206)
   
   # Socials:

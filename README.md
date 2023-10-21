@@ -29,5 +29,5 @@
 Discord-i_no_am
 Mc ign-i_no_am
 ```  
-[![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/1051897115447660697)
 

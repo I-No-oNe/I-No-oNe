@@ -1,10 +1,14 @@
-# I-No-One(also known as i_no_am)
-![Discord Presence](https://lanyard.cnrad.dev/api/1051897115447660697?bg=007519&showDisplayName=true&borderRadius=55px&idleMessage=Check+out+the+CC%20Plus+V2.1+Pack%!&theme=dark&hideTimestamp=true)
-## what Im doing?
-```yml
-- Texture pack maker(one of my known packs is the ClickCrystalPlus pack)
+# I-No-oNe(also known as i_no_am)
+______________________________________________________________________
+## My statistics:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=I-No-oNe&theme=chartreuse_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=I-No-oNe&theme=chartreuse_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=I-No-oNe&theme=chartreuse_dark)
+____________________________________________________________________
+##What am I usually do?
+- Texture pack maker(one of my known packs is the [The ClickCrystalPlus-Pack](https://modrinth.com/resourcepack/clickcrystalplus-pack) pack)
 - Minecraft mods user
-- 3D designor on the frc program
+- 3D designor on the [FRC program](https://excaliburfrc.github.io/)
 - Know java(but not really good at it)
 - bug finder and idea provider on ClickCrystals
 - anarchy player
@@ -12,7 +16,6 @@
 - A cool guy without any time
 - probably learning something rn
 ```
-[![forthebadge](https://forthebadge.com/images/badges/fixed-bugs.svg)](https://forthebadge.com)
 # Links to my works:
 - [The ClickCrystalPlus-Pack](https://modrinth.com/resourcepack/clickcrystalplus-pack)
 - [My frc team](https://excaliburfrc.github.io/)
@@ -30,4 +33,5 @@ Discord-i_no_am
 Mc ign-i_no_am
 ```  
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/1051897115447660697)
+![Discord Presence](https://lanyard.cnrad.dev/api/1051897115447660697?bg=007519&showDisplayName=true&borderRadius=55px&idleMessage=Check+out+the+CC%20Plus+V2.1+Pack%!&theme=dark&hideTimestamp=true)
 

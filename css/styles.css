@@ -1,0 +1,105 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #073a1e; /* Dark background color */
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+  }
+  
+  header {
+    background-color: #000000; /* Darker header */
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+  }
+  
+  .logo {
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .content {
+    text-align: center;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .project {
+    display: inline-block;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .project-icon {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+  }
+  
+  .project-icon:hover {
+    transform: scale(1.1);
+  }
+  
+  .project-details {
+    display: none;
+    margin-top: 10px;
+  }
+  
+  .project-details.active {
+    display: block;
+  }
+  
+  .stats-container {
+    text-align: center;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .stats-card {
+    background-color: #000000; /* Darker stats card */
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    margin-right: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .stats-card h2 {
+    margin-top: 0;
+    font-size: 20px;
+  }
+  
+  .stats-card p {
+    margin-bottom: 0;
+  }
+  
+  footer {
+    background-color: #000000; /* Darker footer */
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .footer-link {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .footer-link:hover {
+    color: #135e1e;
+  }
+  
+  .highlight {
+    color: #4CAF50; /* Nice green color */
+    font-family: 'Bebas Neue', sans-serif; /* Bebas Neue font */
+  }
+  

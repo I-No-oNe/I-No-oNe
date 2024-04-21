@@ -1,5 +1,1 @@
-{
-  "usernames": {
-    "i_no_am": true
-  }
-}
+i_no_am

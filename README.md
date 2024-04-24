@@ -14,7 +14,7 @@
 [![General GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=i-no-one&repo=Glowing-Entities&theme=merko)](https://github.com/i-no-one/Glowing-Entities)
 <img alt="General GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=i-no-one&repo=ClickCrystals&theme=merko" align="right" />
 
-## *Contact me:*
+## *The greatest people ever:*
 ----------------------------------
 <img alt="General GitHub Stats" src="https://lanyard.cnrad.dev/api/1051897115447660697?bg=000000&showDisplayName=false&borderRadius=21px&idleMessage=6738%20Are%20the%20best%20⚔️%20&theme=Green&hideTimestamp=true" align="center" />
 

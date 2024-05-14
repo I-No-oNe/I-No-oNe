@@ -7,11 +7,10 @@
 
 # *My recent Projects:*
 ----------------------------------------
-
-[![General GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=i-no-one&repo=Mod-by-no-one&theme=merko)](https://github.com/i-no-one/Mod-by-no-one)
+[![General GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=i-no-one&repo=View-Model&theme=merko)](https://github.com/i-no-one/View-Model)
 <img alt="General GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=i-no-one&repo=ClickCrystalPlus-Pack&theme=merko" align="right" />
 
-[![General GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=i-no-one&repo=Glowing-Entities&theme=merko)](https://github.com/i-no-one/Glowing-Entities)
+[![General GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=i-no-one&repo=Mod-by-no-one&theme=merko)](https://github.com/i-no-one/Mod-by-no-one)
 <img alt="General GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=i-no-one&repo=ClickCrystals&theme=merko" align="right" />
 
 ## *Contact me:*
@@ -22,7 +21,7 @@
 # *The greatest people ever:*
   #### *[ImproperIssues:](https://github.com/ItziSpyder)* 
   ```js
- The owner and developr of ClickCrystals and a great friend!
+ The owner and developr of ClickCrystals and ImproprUi and a great friend!
 ```
  #### [*UHB:*](https://github.com/uhb217)
    ```lua

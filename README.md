@@ -10,7 +10,7 @@
 [![General GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=i-no-one&repo=View-Model&theme=merko)](https://github.com/i-no-one/View-Model)
 <img alt="General GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=i-no-one&repo=ClickCrystalPlus-Pack&theme=merko" align="right" />
 
-[![General GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=i-no-one&repo=Mod-by-no-one&theme=merko)](https://github.com/i-no-one/Mod-by-no-one)
+[![General GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=i-no-one&repo=Glowing-Entities&theme=merko)](https://github.com/i-no-one/Glowing-Entities)
 <img alt="General GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=i-no-one&repo=ClickCrystals&theme=merko" align="right" />
 
 ## *Contact me:*

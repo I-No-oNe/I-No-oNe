@@ -13,10 +13,6 @@
 [![General GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=I-No-oNe&repo=No-Render&theme=merko)](https://github.com/I-No-oNe/No-Render)
 <img alt="General GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=uhb217&repo=PlayerTracker&theme=merko" align="right" />
 
-## *Contact me:*
-----------------------------------
-<img alt="General GitHub Stats" src="https://lanyard.cnrad.dev/api/1051897115447660697?bg=000000&showDisplayName=false&borderRadius=21px&idleMessage=6738%20Are%20the%20best%20⚔️%20&theme=Green&hideTimestamp=true" align="center" />
-
 -------------------------------------------------
 # *The greatest people ever:*
   #### *[ImproperIssues:](https://github.com/ItziSpyder)* 

@@ -1,17 +1,17 @@
 # *Welcom to I-No-oNe Github Profile!*
 ---------------------------------------------
-<img alt="General GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=i-no-one&theme=merko&show_icons=true&hide_rank=true" align="left" />
-<img alt="General GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-no-one&theme=merko&layout=compact" align="center" />
+<img alt="General GitHub Stats" src="https://no-ones-github-readme-stats-fork.vercel.app/api?username=i-no-one&theme=merko&show_icons=true&hide_rank=true" align="left" />
+<img alt="General GitHub Stats" src="https://no-ones-github-readme-stats-fork.vercel.app/api/top-langs/?username=i-no-one&theme=merko&layout=compact" align="center" />
 
 
 
 # *My recent Projects:*
 ----------------------------------------
-[![General GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=i-no-one&repo=View-Model&theme=merko)](https://github.com/i-no-one/View-Model)
-<img alt="General GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=i-no-one&repo=ClickCrystalPlus-Pack&theme=merko" align="right" />
+[![General GitHub Stats](https://no-ones-github-readme-stats-fork.vercel.app/api/pin/?username=i-no-one&repo=View-Model&theme=merko)](https://github.com/i-no-one/View-Model)
+<img alt="General GitHub Stats" src="https://no-ones-github-readme-stats-fork.vercel.app/api/pin/?username=i-no-one&repo=ClickCrystalPlus-Pack&theme=merko" align="right" />
 
-[![General GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=I-No-oNe&repo=No-Render&theme=merko)](https://github.com/I-No-oNe/No-Render)
-<img alt="General GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=uhb217&repo=PlayerTracker&theme=merko" align="right" />
+[![General GitHub Stats](https://no-ones-github-readme-stats-fork.vercel.app/api/pin/?username=I-No-oNe&repo=No-Render&theme=merko)](https://github.com/I-No-oNe/No-Render)
+<img alt="General GitHub Stats" src="https://no-ones-github-readme-stats-fork.vercel.app/api/pin/?username=uhb217&repo=PlayerTracker&theme=merko" align="right" />
 
 -------------------------------------------------
 <picture>
